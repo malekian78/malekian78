@@ -22,7 +22,7 @@
 
 
 
-[![Website](https://img.shields.io/website?down_color=blue&down_message=blue&up_color=yellow&up_message=my%20resume&url=https%3A%2F%2Falibigdeli.github.io%2F)](https://malekian78.github.io/)
+<!-- [![Website](https://img.shields.io/website?down_color=blue&down_message=blue&up_color=yellow&up_message=my%20resume&url=https%3A%2F%2Falibigdeli.github.io%2F)](https://malekian78.github.io/) -->
 
 
 - 🔭 I’m currently working on **Web Development**
