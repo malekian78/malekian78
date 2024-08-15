@@ -1,5 +1,16 @@
-<h1 align="center">Hi there✌😉, I'm Mohammad Hosein Malekian</h1>
-<h3 align="center">Django Web Developer</h3>
+<!--<h1 align="center">Hi there✌😉, I'm Mohammad Hosein Malekian</h1>
+<h3 align="center">Django Web Developer</h3>-->
+<div align="center">
+  <p>
+    <a href="https://github.com/malekian78">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=510&height=25&lines=Mohammad+Hosein+Malekian" alt="MOhammad Hosein Malekian"/></a>
+  </p>
+  
+  <p>
+    <a href="https://github.com/malekian78">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&random=false&width=510&height=30&lines=Hello+there+✌😉!;I'm+a+Django+developer+and+.Net developer;Always+learning+new+things;Nice+to+meet+you!+Happy+coding!+🤩✌" alt="Malekian's greetings"/></a>
+  </p>
+</div>
 
 <p align="left">Mohammad Hosein Malekian graduated in Computer Engineering from the University of Isfahan (Shahreza Campus)</p>
 <p align="left">I recently completed my military service💂‍♂️ and have one year of experience in front-end development using Angular👨‍💻. During my military service, I developed an interest in Django and earned an advanced Django certificate from Maktabkhooneh.</p>
