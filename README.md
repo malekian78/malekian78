@@ -12,6 +12,10 @@
   </p>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💫 About me:
+
 <p align="left">Mohammad Hosein Malekian graduated in Computer Engineering from the University of Isfahan (Shahreza Campus)</p>
 <p align="left">I recently completed my military service💂‍♂️ and have one year of experience in front-end development using Angular👨‍💻. During my military service, I developed an interest in Django and earned an advanced Django certificate from Maktabkhooneh.</p>
 <p align="left">In addition to my technical skills, I have a keen interest in continuous learning and expanding my knowledge base. Nature and art captivate me, and I find joy in combining my technical expertise with creativity. Whether it's delving into code or exploring the outdoors, I thrive on challenges and love the process of solving problems.</p>
