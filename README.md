@@ -8,7 +8,7 @@
   
   <p>
     <a href="https://github.com/malekian78">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&random=false&width=510&height=30&lines=Hello+there+✌😉;I'm+a+Django+and+.Net+developer;Always+learning+new+things;Nice+to+meet+you!+Happy+coding!+💪🤩" alt="Malekian's greetings"/></a>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&random=false&width=510&height=30&lines=Hello+there+✌😉;I'm+a+Django+developer;Always+learning+new+things;Nice+to+meet+you!+Happy+coding!+💪😎" alt="Malekian's greetings"/></a>
   </p>
 </div>
 
