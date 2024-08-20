@@ -27,13 +27,13 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Django** and **.Net**
+- 🌱 I’m currently learning **Asp.Net Core** to find job in my city
 
-- 👯 I’m looking to collaborate on projects related to **Django and web development**
+- 👯 I’m looking to collaborate on projects related to **web development**
 
-- 💬 Ask me about **Python,Django,WPF,.Net**
+- 💬 You can Ask me about **Python,Django,WPF,Asp.Net**
 
-- 📫 How to reach me **mh.malekian78@gmail.com**
+- 📫 How to reach me: **mh.malekian78@gmail.com** & [Telegram](https://t.me/mh_malekian)
 
 - ⚡ Fun fact **I view the world with a distinctive perspective, harmonizing technology and creativity in my daily experiences.**
 
