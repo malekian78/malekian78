@@ -5,11 +5,17 @@
     <a href="https://github.com/malekian78">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=510&height=25&lines=Mohammad+Hosein+Malekian" alt="MOhammad Hosein Malekian"/></a>
   </p>
-  
+  <!-- 
   <p>
     <a href="https://github.com/malekian78">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&random=false&width=510&height=30&lines=Hello+there+✌😉;I'm+a+Django+developer;Always+learning+new+things;Nice+to+meet+you!+Happy+coding!+💪😎" alt="Malekian's greetings"/></a>
+  </p>-->
+
+   <p>
+    <a href="https://github.com/malekian78">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&random=false&width=510&height=30&lines=Hello+there!!!;I'm+a+Django+developer;Always+learning+new+things...;Nice+to+meet+you!+Happy+coding!" alt="Malekian's greetings"/></a>
   </p>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
